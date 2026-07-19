@@ -1,0 +1,6 @@
+.env
+crawl_states/
+kb/
+data/master.json
+__pycache__/
+*.pyc
